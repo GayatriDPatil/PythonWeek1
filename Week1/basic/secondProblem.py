@@ -1,0 +1,8 @@
+Values = input('Enter some comma seperated Numbers: ')
+tuple = tuple(Values.split(","))
+list = list(Values.split(","))
+print('List :', list)
+print('Tuple :', tuple)
+#print('set:', set)
+#dictionary = dictionary(Values.split(","))
+#print('Dictionary', dictionary)
